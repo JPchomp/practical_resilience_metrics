@@ -1,0 +1,3698 @@
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:51:46 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.08 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 3112
+Total time for automatic ordering = 0.00 sec. (0.11 ticks)
+Barrier time = 0.00 sec. (0.24 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:51:49 2022
+
+Presolve time = 0.02 sec. (0.09 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:51:53 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.26 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17140
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.21 ticks)
+Barrier time = 0.00 sec. (4.71 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:51:57 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 8 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17522
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.90 ticks)
+Barrier time = 0.00 sec. (4.42 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 8 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.83 ticks)
+Barrier time = 0.01 sec. (4.38 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:08 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 8 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.35 ticks)
+Barrier time = 0.02 sec. (4.90 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:14 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 8 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.60 ticks)
+Barrier time = 0.00 sec. (5.15 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:20 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 8 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.57 ticks)
+Barrier time = 0.02 sec. (5.12 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18557
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.40 ticks)
+Barrier time = 0.02 sec. (5.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:33 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18607
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.47 ticks)
+Barrier time = 0.02 sec. (5.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18607
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.50 ticks)
+Barrier time = 0.01 sec. (6.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:52:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18607
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.59 ticks)
+Barrier time = 0.00 sec. (5.16 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:53:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18607
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.47 ticks)
+Barrier time = 0.00 sec. (5.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:53:15 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18607
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.69 ticks)
+Barrier time = 0.00 sec. (5.26 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:53:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18571
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.30 ticks)
+Barrier time = 0.00 sec. (5.87 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:53:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18571
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.16 ticks)
+Barrier time = 0.00 sec. (4.73 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:53:51 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 3 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17052
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.35 ticks)
+Barrier time = 0.02 sec. (3.87 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:54:04 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17788
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.28 ticks)
+Barrier time = 0.01 sec. (3.83 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:54:18 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17858
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.27 ticks)
+Barrier time = 0.00 sec. (3.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:54:31 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19511
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.72 ticks)
+Barrier time = 0.00 sec. (5.31 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:54:47 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19638
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.28 ticks)
+Barrier time = 0.00 sec. (4.88 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:55:05 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19638
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.41 ticks)
+Barrier time = 0.01 sec. (5.01 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:55:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19638
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.76 ticks)
+Barrier time = 0.02 sec. (6.36 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:55:44 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18102
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.14 ticks)
+Barrier time = 0.00 sec. (3.71 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:56:04 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18400
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.39 ticks)
+Barrier time = 0.01 sec. (3.96 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:56:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18400
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.18 ticks)
+Barrier time = 0.00 sec. (3.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:56:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18400
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.17 ticks)
+Barrier time = 0.00 sec. (3.73 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:57:17 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18400
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.43 ticks)
+Barrier time = 0.00 sec. (3.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:57:45 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18400
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.34 ticks)
+Barrier time = 0.00 sec. (3.90 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:58:11 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17774
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.35 ticks)
+Barrier time = 0.01 sec. (3.90 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:58:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17789
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.23 ticks)
+Barrier time = 0.02 sec. (3.79 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:59:10 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17789
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.36 ticks)
+Barrier time = 0.02 sec. (3.91 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 17:59:43 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17789
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.57 ticks)
+Barrier time = 0.02 sec. (4.12 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:42:55 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.07 ticks)
+Barrier time = 0.00 sec. (0.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:42:58 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.16 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Barrier time = 0.01 sec. (0.12 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.20 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 4 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 11369
+Total time for automatic ordering = 0.00 sec. (0.26 ticks)
+Barrier time = 0.01 sec. (0.62 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.22 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 1 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 13644
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.85 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 508
+  Integer space required    = 3950
+  Total non-zeros in factor = 45505
+  Total FP ops to factor    = 5661585
+Barrier time = 0.02 sec. (1.81 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:10 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.23 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 13847
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (0.86 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 511
+  Integer space required    = 3901
+  Total non-zeros in factor = 43923
+  Total FP ops to factor    = 5161721
+Barrier time = 0.01 sec. (1.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:14 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.23 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 13911
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.86 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 512
+  Integer space required    = 3880
+  Total non-zeros in factor = 44085
+  Total FP ops to factor    = 5179741
+Barrier time = 0.02 sec. (1.83 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:19 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.23 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 13941
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.86 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 512
+  Integer space required    = 3840
+  Total non-zeros in factor = 43752
+  Total FP ops to factor    = 5063372
+Barrier time = 0.00 sec. (1.86 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:23 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.24 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 4 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 14806
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.90 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 553
+  Integer space required    = 4559
+  Total non-zeros in factor = 51846
+  Total FP ops to factor    = 6705522
+Barrier time = 0.00 sec. (2.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:28 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.26 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 15525
+Total time for automatic ordering = 0.00 sec. (0.36 ticks)
+Barrier time = 0.00 sec. (0.87 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:33 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.26 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16269
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.99 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 588
+  Integer space required    = 5015
+  Total non-zeros in factor = 59594
+  Total FP ops to factor    = 8628518
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   6.9192366e+08  -5.2696784e+09  3.18e+06  1.10e+05  3.24e+04  1.00e+00
+ Barrier aborted.
+Barrier time = 0.02 sec. (3.28 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16410
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.25 ticks)
+Barrier time = 0.02 sec. (3.79 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:45 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16410
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.60 ticks)
+Barrier time = 0.01 sec. (4.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:52 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16418
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.20 ticks)
+Barrier time = 0.00 sec. (5.74 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:43:59 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16418
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.49 ticks)
+Barrier time = 0.00 sec. (4.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:44:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16418
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.67 ticks)
+Barrier time = 0.00 sec. (4.21 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:44:15 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16418
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (4.41 ticks)
+Barrier time = 0.01 sec. (4.95 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:44:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16418
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.64 ticks)
+Barrier time = 0.00 sec. (4.18 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:44:38 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.27 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 5 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16418
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.64 ticks)
+Barrier time = 0.00 sec. (4.18 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:44:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 9 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 16343
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.65 ticks)
+Barrier time = 0.00 sec. (4.20 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:45:07 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 17982
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.11 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 655
+  Integer space required    = 6027
+  Total non-zeros in factor = 68274
+  Total FP ops to factor    = 10127160
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   6.8330732e+08  -4.8154804e+09  2.98e+06  9.40e+04  3.02e+04  1.00e+00
+   1   5.8590142e+08  -1.4369595e+09  2.07e+06  6.52e+04  1.05e+04  4.78e-06
+ Barrier aborted.
+Barrier time = 0.01 sec. (5.23 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:45:24 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18385
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.35 ticks)
+Barrier time = 0.02 sec. (5.95 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:45:45 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18752
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.36 ticks)
+Barrier time = 0.00 sec. (4.98 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:46:09 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18755
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.88 ticks)
+Barrier time = 0.01 sec. (4.50 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:46:36 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19236
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.80 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 676
+  Integer space required    = 5357
+  Total non-zeros in factor = 65330
+  Total FP ops to factor    = 8608500
+Barrier time = 0.02 sec. (7.22 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:47:12 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19236
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.75 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 676
+  Integer space required    = 5234
+  Total non-zeros in factor = 65773
+  Total FP ops to factor    = 8653209
+Barrier time = 0.01 sec. (7.17 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:47:43 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19236
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (4.94 ticks)
+Barrier time = 0.01 sec. (5.56 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:48:23 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19236
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.45 ticks)
+Barrier time = 0.00 sec. (4.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:49:07 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19236
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.69 ticks)
+Barrier time = 0.00 sec. (4.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:49:49 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19236
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.80 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 676
+  Integer space required    = 5366
+  Total non-zeros in factor = 65234
+  Total FP ops to factor    = 8473356
+Barrier time = 0.01 sec. (7.30 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:50:32 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.28 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 16866
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.13 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 567
+  Integer space required    = 4892
+  Total non-zeros in factor = 57122
+  Total FP ops to factor    = 8077284
+Barrier time = 0.02 sec. (3.16 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:51:15 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 16902
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.13 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 567
+  Integer space required    = 5004
+  Total non-zeros in factor = 58508
+  Total FP ops to factor    = 8633592
+Barrier time = 0.00 sec. (3.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:51:56 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17316
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.13 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 579
+  Integer space required    = 4973
+  Total non-zeros in factor = 59089
+  Total FP ops to factor    = 8491615
+Barrier time = 0.00 sec. (2.59 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:52:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17616
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.15 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 584
+  Integer space required    = 5265
+  Total non-zeros in factor = 60735
+  Total FP ops to factor    = 9015165
+Barrier time = 0.02 sec. (3.28 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:53:32 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17652
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 584
+  Integer space required    = 5268
+  Total non-zeros in factor = 60738
+  Total FP ops to factor    = 9015336
+Barrier time = 0.00 sec. (2.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:54:24 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17652
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 584
+  Integer space required    = 5268
+  Total non-zeros in factor = 60738
+  Total FP ops to factor    = 9015336
+Barrier time = 0.00 sec. (2.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:55:15 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17652
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 584
+  Integer space required    = 5268
+  Total non-zeros in factor = 60738
+  Total FP ops to factor    = 9015336
+Barrier time = 0.02 sec. (2.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:56:11 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17652
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 584
+  Integer space required    = 5268
+  Total non-zeros in factor = 60738
+  Total FP ops to factor    = 9015336
+Barrier time = 0.00 sec. (2.90 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:57:11 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17652
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 584
+  Integer space required    = 5268
+  Total non-zeros in factor = 60738
+  Total FP ops to factor    = 9015336
+Barrier time = 0.00 sec. (2.87 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:58:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 7 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19521
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.01 ticks)
+Barrier time = 0.00 sec. (5.65 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 18:59:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.09 ticks)
+Barrier time = 0.02 sec. (5.74 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:00:13 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.98 ticks)
+Barrier time = 0.02 sec. (5.63 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:01:20 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.84 ticks)
+Barrier time = 0.00 sec. (5.49 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:02:33 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (4.95 ticks)
+Barrier time = 0.01 sec. (5.60 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:03:47 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.18 ticks)
+Barrier time = 0.02 sec. (5.83 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:05:09 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.52 ticks)
+Barrier time = 0.02 sec. (5.17 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:06:33 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.69 ticks)
+Barrier time = 0.01 sec. (6.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:08:03 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (4.30 ticks)
+Barrier time = 0.01 sec. (4.94 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:09:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.42 ticks)
+Barrier time = 0.00 sec. (5.06 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:11:24 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19765
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.08 ticks)
+Barrier time = 0.00 sec. (5.73 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:12:59 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18792
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.30 ticks)
+Barrier time = 0.00 sec. (3.92 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:14:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18795
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.22 ticks)
+Barrier time = 0.00 sec. (3.84 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:16:19 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.30 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 18795
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.29 ticks)
+Barrier time = 0.00 sec. (3.91 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:17:57 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17157
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 570
+  Integer space required    = 4953
+  Total non-zeros in factor = 58140
+  Total FP ops to factor    = 8332206
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   1.0666729e+09  -7.8372697e+09  4.68e+06  1.38e+05  4.03e+04  1.00e+00
+Barrier time = 0.00 sec. (3.94 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:19:38 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17157
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 570
+  Integer space required    = 4953
+  Total non-zeros in factor = 58140
+  Total FP ops to factor    = 8332206
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   1.0666729e+09  -7.8431914e+09  4.68e+06  1.38e+05  4.03e+04  1.00e+00
+Barrier time = 0.00 sec. (4.35 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:21:22 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.29 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 17157
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.16 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 570
+  Integer space required    = 4953
+  Total non-zeros in factor = 58140
+  Total FP ops to factor    = 8332206
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   1.0666729e+09  -7.8491130e+09  4.68e+06  1.38e+05  4.03e+04  1.00e+00
+Barrier time = 0.01 sec. (4.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:23:03 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19046
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.30 ticks)
+Barrier time = 0.00 sec. (3.92 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:24:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19263
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.40 ticks)
+Barrier time = 0.02 sec. (4.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:26:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.02 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19263
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.57 ticks)
+Barrier time = 0.00 sec. (5.20 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:28:32 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19263
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.34 ticks)
+Barrier time = 0.00 sec. (3.98 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:30:32 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19263
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.94 ticks)
+Barrier time = 0.00 sec. (5.57 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:32:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18976
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.67 ticks)
+Barrier time = 0.02 sec. (5.29 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:34:23 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18976
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.56 ticks)
+Barrier time = 0.00 sec. (5.19 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:36:24 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18976
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.57 ticks)
+Barrier time = 0.00 sec. (4.20 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:38:21 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.73 ticks)
+Barrier time = 0.02 sec. (5.38 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:40:25 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.73 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5096
+  Total non-zeros in factor = 64337
+  Total FP ops to factor    = 8399029
+Barrier time = 0.00 sec. (7.18 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:42:27 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.52 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5514
+  Total non-zeros in factor = 65549
+  Total FP ops to factor    = 8815509
+Barrier time = 0.02 sec. (6.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:44:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.42 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5207
+  Total non-zeros in factor = 64302
+  Total FP ops to factor    = 8376368
+Barrier time = 0.00 sec. (6.90 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:46:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.89 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5255
+  Total non-zeros in factor = 64637
+  Total FP ops to factor    = 8435893
+Barrier time = 0.02 sec. (7.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:49:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (6.03 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5246
+  Total non-zeros in factor = 64933
+  Total FP ops to factor    = 8508563
+Barrier time = 0.00 sec. (7.48 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:51:29 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.75 ticks)
+Barrier time = 0.00 sec. (5.40 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:53:58 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.27 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5384
+  Total non-zeros in factor = 63930
+  Total FP ops to factor    = 8244600
+Barrier time = 0.02 sec. (6.73 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:56:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19490
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.78 ticks)
+Barrier time = 0.00 sec. (5.43 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 19:59:08 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19741
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.06 ticks)
+Barrier time = 0.00 sec. (5.71 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:01:51 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20084
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.59 ticks)
+Barrier time = 0.00 sec. (5.25 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:04:38 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20084
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.55 ticks)
+Barrier time = 0.02 sec. (5.21 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:07:18 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 19710
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.51 ticks)
+Barrier time = 0.00 sec. (5.16 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:10:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19996
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.64 ticks)
+Barrier time = 0.00 sec. (6.30 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:12:53 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19996
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (4.69 ticks)
+Barrier time = 0.01 sec. (5.35 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:15:37 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.11 ticks)
+Barrier time = 0.00 sec. (4.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:18:28 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.27 ticks)
+Barrier time = 0.00 sec. (4.94 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:21:24 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.26 ticks)
+Barrier time = 0.00 sec. (4.92 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:24:27 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.01 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.37 ticks)
+Barrier time = 0.00 sec. (5.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:27:31 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.01 ticks)
+Barrier time = 0.01 sec. (5.67 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:30:38 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (4.13 ticks)
+Barrier time = 0.01 sec. (4.79 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:33:51 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.32 ticks)
+Barrier time = 0.02 sec. (4.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:37:10 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.08 ticks)
+Barrier time = 0.00 sec. (4.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:40:34 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.58 ticks)
+Barrier time = 0.01 sec. (6.24 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:44:05 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20107
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.36 ticks)
+Barrier time = 0.02 sec. (5.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:47:30 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20237
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (6.19 ticks)
+Barrier time = 0.02 sec. (6.86 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:51:00 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20237
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.86 ticks)
+Barrier time = 0.02 sec. (5.53 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:54:25 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.46 ticks)
+Barrier time = 0.00 sec. (5.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 20:57:56 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.57 ticks)
+Barrier time = 0.00 sec. (5.24 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:01:34 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.86 ticks)
+Barrier time = 0.02 sec. (4.53 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:05:20 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.46 ticks)
+Barrier time = 0.02 sec. (5.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:09:23 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.53 ticks)
+Barrier time = 0.00 sec. (5.20 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:13:33 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.03 sec. (5.29 ticks)
+Barrier time = 0.03 sec. (5.96 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:17:49 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.08 ticks)
+Barrier time = 0.02 sec. (4.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:22:13 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20133
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.57 ticks)
+Barrier time = 0.00 sec. (5.24 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:26:27 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.61 ticks)
+Barrier time = 0.00 sec. (5.28 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:30:56 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.06 ticks)
+Barrier time = 0.00 sec. (5.74 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:35:31 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.77 ticks)
+Barrier time = 0.02 sec. (5.45 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:40:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.91 ticks)
+Barrier time = 0.02 sec. (5.58 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:44:43 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.81 ticks)
+Barrier time = 0.00 sec. (5.49 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:49:30 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.88 ticks)
+Barrier time = 0.02 sec. (5.56 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:54:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.05 ticks)
+Barrier time = 0.02 sec. (5.73 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 21:59:32 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.47 ticks)
+Barrier time = 0.00 sec. (5.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:04:46 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.95 ticks)
+Barrier time = 0.00 sec. (5.62 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:10:04 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.75 ticks)
+Barrier time = 0.00 sec. (5.42 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:15:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 6 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20231
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (6.18 ticks)
+Barrier time = 0.00 sec. (6.85 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:21:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19292
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (1.28 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 626
+  Integer space required    = 5438
+  Total non-zeros in factor = 66740
+  Total FP ops to factor    = 10127468
+ Itn      Primal Obj        Dual Obj  Prim Inf Upper Inf  Dual Inf Inf Ratio
+   0   9.9535995e+08  -7.4655088e+09  4.69e+06  1.30e+05  4.12e+04  1.00e+00
+ Barrier aborted.
+Barrier time = 0.02 sec. (3.91 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:26:43 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19570
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.92 ticks)
+Barrier time = 0.00 sec. (4.59 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:32:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19570
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.55 ticks)
+Barrier time = 0.01 sec. (6.21 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:38:04 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19030
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.35 ticks)
+Barrier time = 0.00 sec. (4.00 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:43:45 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19030
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.82 ticks)
+Barrier time = 0.01 sec. (4.47 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:49:34 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19030
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.68 ticks)
+Barrier time = 0.02 sec. (4.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 22:55:17 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19353
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.09 ticks)
+Barrier time = 0.00 sec. (4.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:01:05 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19353
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.95 ticks)
+Barrier time = 0.00 sec. (4.61 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:06:48 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.94 ticks)
+Barrier time = 0.02 sec. (5.61 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:12:38 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.82 ticks)
+Barrier time = 0.02 sec. (5.49 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:18:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.71 ticks)
+Barrier time = 0.01 sec. (4.38 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:24:44 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.30 ticks)
+Barrier time = 0.00 sec. (5.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:30:55 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.34 ticks)
+Barrier time = 0.00 sec. (6.01 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:37:12 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.65 ticks)
+Barrier time = 0.00 sec. (4.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:43:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20089
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.06 ticks)
+Barrier time = 0.02 sec. (4.73 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:49:52 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19353
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.41 ticks)
+Barrier time = 0.01 sec. (6.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Wed Jan 12 23:56:13 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19353
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.99 ticks)
+Barrier time = 0.00 sec. (4.65 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:02:31 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19570
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.90 ticks)
+Barrier time = 0.00 sec. (4.57 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:08:53 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19570
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.65 ticks)
+Barrier time = 0.02 sec. (4.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:15:12 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18354
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.50 ticks)
+Barrier time = 0.02 sec. (4.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:21:32 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18354
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.37 ticks)
+Barrier time = 0.00 sec. (4.01 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:28:00 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18354
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.34 ticks)
+Barrier time = 0.00 sec. (3.98 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:34:23 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.21 ticks)
+Barrier time = 0.02 sec. (4.85 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:40:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.64 ticks)
+Barrier time = 0.02 sec. (4.29 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:47:22 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.46 ticks)
+Barrier time = 0.00 sec. (4.10 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 00:54:02 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.70 ticks)
+Barrier time = 0.02 sec. (4.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:01:05 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.45 ticks)
+Barrier time = 0.00 sec. (4.09 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:08:14 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.41 ticks)
+Barrier time = 0.02 sec. (4.05 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:15:21 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.45 ticks)
+Barrier time = 0.00 sec. (4.09 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:22:31 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18698
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (4.40 ticks)
+Barrier time = 0.01 sec. (5.05 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:29:27 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18920
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.48 ticks)
+Barrier time = 0.01 sec. (4.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:36:18 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18920
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.03 sec. (3.67 ticks)
+Barrier time = 0.03 sec. (4.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:43:04 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19757
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.66 ticks)
+Barrier time = 0.00 sec. (4.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:49:58 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19757
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.76 ticks)
+Barrier time = 0.00 sec. (4.43 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 01:56:56 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19757
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.82 ticks)
+Barrier time = 0.00 sec. (4.49 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:04:28 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Barrier time = 0.00 sec. (0.23 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:11:25 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20347
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.06 ticks)
+Barrier time = 0.00 sec. (5.74 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:18:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20347
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.93 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 653
+  Integer space required    = 5271
+  Total non-zeros in factor = 63292
+  Total FP ops to factor    = 8237170
+Barrier time = 0.01 sec. (7.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:25:48 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20347
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.08 ticks)
+Barrier time = 0.00 sec. (5.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:33:12 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20347
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.74 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 653
+  Integer space required    = 5242
+  Total non-zeros in factor = 64528
+  Total FP ops to factor    = 8569468
+Barrier time = 0.01 sec. (7.12 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:40:44 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20347
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.97 ticks)
+Barrier time = 0.00 sec. (5.65 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:48:25 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 20347
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (5.02 ticks)
+Barrier time = 0.00 sec. (5.69 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 02:55:59 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18408
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.39 ticks)
+Barrier time = 0.01 sec. (4.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:04:03 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Barrier time = 0.00 sec. (0.21 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:11:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Barrier time = 0.02 sec. (0.26 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:19:21 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Barrier time = 0.01 sec. (0.31 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:27:11 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Barrier time = 0.02 sec. (0.23 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:34:53 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Barrier time = 0.00 sec. (0.22 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:42:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Total time for automatic ordering = 0.00 sec. (0.48 ticks)
+Barrier time = 0.01 sec. (1.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:50:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.39 ticks)
+Barrier time = 0.00 sec. (4.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 03:58:34 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.02 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Total time for automatic ordering = 0.00 sec. (0.48 ticks)
+Barrier time = 0.00 sec. (1.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:06:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.14 ticks)
+Barrier time = 0.02 sec. (4.79 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:14:52 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.46 ticks)
+Barrier time = 0.02 sec. (5.11 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:23:14 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.02 ticks)
+Barrier time = 0.00 sec. (4.67 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:31:36 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.34 ticks)
+Barrier time = 0.00 sec. (3.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:40:11 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19005
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.33 ticks)
+Barrier time = 0.02 sec. (3.98 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:48:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20465
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.55 ticks)
+Barrier time = 0.02 sec. (6.23 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 04:57:17 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20465
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.96 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5609
+  Total non-zeros in factor = 65263
+  Total FP ops to factor    = 8763001
+Barrier time = 0.02 sec. (7.44 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 05:06:03 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20465
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.00 ticks)
+Barrier time = 0.02 sec. (5.68 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 05:15:00 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20465
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.94 ticks)
+Barrier time = 0.01 sec. (6.62 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 05:24:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20465
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.80 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5454
+  Total non-zeros in factor = 65617
+  Total FP ops to factor    = 8686625
+Barrier time = 0.01 sec. (7.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 05:33:23 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20465
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.78 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 664
+  Integer space required    = 5541
+  Total non-zeros in factor = 67003
+  Total FP ops to factor    = 9211267
+Barrier time = 0.01 sec. (7.36 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 05:42:26 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20658
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (4.89 ticks)
+Barrier time = 0.02 sec. (5.58 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 05:51:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.43 ticks)
+Barrier time = 0.01 sec. (6.12 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 06:01:06 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.50 ticks)
+Barrier time = 0.01 sec. (6.19 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 06:10:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.68 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 670
+  Integer space required    = 5365
+  Total non-zeros in factor = 69255
+  Total FP ops to factor    = 9724869
+Barrier time = 0.02 sec. (7.23 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 06:20:35 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.69 ticks)
+Barrier time = 0.02 sec. (6.38 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 06:31:04 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.94 ticks)
+Barrier time = 0.01 sec. (5.63 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 06:41:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (6.24 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 670
+  Integer space required    = 5265
+  Total non-zeros in factor = 68213
+  Total FP ops to factor    = 9337227
+Barrier time = 0.03 sec. (7.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 06:52:20 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.02 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20695
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.75 ticks)
+Barrier time = 0.00 sec. (4.43 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 07:02:28 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.01 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18132
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.23 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 586
+  Integer space required    = 5050
+  Total non-zeros in factor = 60303
+  Total FP ops to factor    = 8729699
+Barrier time = 0.00 sec. (2.54 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 07:12:42 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.31 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18132
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (1.23 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 586
+  Integer space required    = 5050
+  Total non-zeros in factor = 60303
+  Total FP ops to factor    = 8729699
+Barrier time = 0.01 sec. (2.54 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 07:22:54 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18932
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (3.69 ticks)
+Barrier time = 0.01 sec. (4.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 07:33:07 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 18932
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.24 ticks)
+Barrier time = 0.00 sec. (3.89 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 07:43:16 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19036
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.37 ticks)
+Barrier time = 0.00 sec. (4.02 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 07:53:27 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19036
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.56 ticks)
+Barrier time = 0.02 sec. (4.21 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 08:03:50 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19036
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (2.94 ticks)
+Barrier time = 0.01 sec. (3.59 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 08:14:18 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19036
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.41 ticks)
+Barrier time = 0.00 sec. (5.06 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 08:24:45 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19908
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.01 sec. (5.16 ticks)
+Barrier time = 0.01 sec. (5.83 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 08:35:43 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.32 ticks)
+Parallel mode: using up to 3 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 19908
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.73 ticks)
+Barrier time = 0.00 sec. (4.40 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 08:46:39 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (5.28 ticks)
+Barrier time = 0.02 sec. (5.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 08:57:40 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.02 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Total time for automatic ordering = 0.00 sec. (1.11 ticks)
+Barrier time = 0.00 sec. (1.80 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 09:08:27 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Total time for automatic ordering = 0.00 sec. (1.09 ticks)
+Barrier time = 0.00 sec. (1.78 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 09:19:25 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.62 ticks)
+Barrier time = 0.00 sec. (5.31 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 09:31:11 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.27 ticks)
+Barrier time = 0.00 sec. (4.95 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 09:42:58 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.01 sec. (5.95 ticks)
+Barrier time = 0.01 sec. (6.64 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 09:54:59 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (6.34 ticks)
+Barrier time = 0.00 sec. (7.03 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 10:07:14 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.00 sec. (5.70 ticks)
+Barrier time = 0.02 sec. (6.38 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 10:19:17 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (4.29 ticks)
+Barrier time = 0.00 sec. (4.98 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 10:31:19 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 20594
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (3.77 ticks)
+Barrier time = 0.00 sec. (4.46 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 10:43:33 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 21033
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.69 ticks)
+Barrier time = 0.02 sec. (4.39 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 10:56:08 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 21033
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.02 sec. (3.49 ticks)
+Barrier time = 0.02 sec. (4.19 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'mincostflow' Clone_1 (V12.8.0.0) Thu Jan 13 11:09:01 2022
+
+Tried aggregator 0 times.
+Presolve time = 0.00 sec. (0.33 ticks)
+Parallel mode: using up to 3 threads for barrier.
+
+***NOTE: Found 2 dense columns.
+
+Number of nonzeros in lower triangle of A*A' = 21033
+Using Nested Dissection ordering
+Total time for automatic ordering = 0.02 sec. (5.94 ticks)
+Summary statistics for Cholesky factor:
+  Threads                   = 3
+  Rows in Factor            = 682
+  Integer space required    = 5468
+  Total non-zeros in factor = 69242
+  Total FP ops to factor    = 9481644
+Barrier time = 0.02 sec. (7.57 ticks)
+
+Dual simplex solved model.
+
