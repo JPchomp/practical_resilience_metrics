@@ -33,7 +33,7 @@ p.LineWidth = edgecolors;
 
 %colormap jet
 %colorbar
-pbaspect([2 2 1])
+pbaspect([2 1 1])
 
 set(gcf, 'Position',  posize);
 set(gcf,'color',color);
