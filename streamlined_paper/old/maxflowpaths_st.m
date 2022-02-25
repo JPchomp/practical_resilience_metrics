@@ -65,9 +65,3 @@ for i = 1:length(spg)
     pcsf = [ pcsf ; pcs{i} ] ;
 end
 
-%% Obtain digraph of max flows
-% Get shortest path
-% find path with minimum capacity
-% Substract amount from the edges just obtained as SP
-% re-run shortest path
-% if no result, then end.
