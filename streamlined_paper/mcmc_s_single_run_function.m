@@ -40,17 +40,18 @@ while sum(se_flows(:,3)) > 0 && inf_counter < search_depth % While either a) the
         
         inf_counter = search_depth;
         
-    else                           % If the paths did change the solution, update and keep on searching
+    else
+    % If the paths did change the solution, update and keep on searching
     % A better solution could be to find the paths with negative reduced costs. If there is none, then stop.
     % Here I am just running the sp inbuilt algorithm and it needs all
     % positive values.
         
     %Handle the solution vector, considering feasibility
     [link_flows, link_duals, comm_duals,se_flows, D, F] = sol_handle_s(sol,dij,FTCD,nl,nn,pathcosts,kpath,s,t);
-    
+        
     paths = paths_update;
     pcosts = pcosts_update;
-        
+    
     % F should always be = 0
 
     end

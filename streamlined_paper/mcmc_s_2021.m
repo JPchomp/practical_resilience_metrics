@@ -22,10 +22,9 @@ DG =  distances(GD);
     Tmat = Tmat - diag(diag(Tmat));
     [s,t,T_o] = setup_traffic(Tmat);
     
-        
     % This case is not returning duals!
     
-    Tmat = sparse(nn,nn); Tmat(1,6) = 2000; Tmat(6,2) = 400;
+    Tmat = sparse(nn,nn); Tmat(1,6) = 5000; Tmat(6,2) = 400;
     [s,t,T_o] = setup_traffic(Tmat);
 
 % Option 2: Historical Traffic fit, ideally for each OD pair
@@ -38,9 +37,9 @@ DG =  distances(GD);
     % sdtt = sqrt(log((stt/(mmtt^2))+1));
 
     % option 3    
-    Tmat = sprand(nn,nn,(123)/(1426^2)) * 500;
-    Tmat = Tmat - diag(diag(Tmat));
-    [s,t,T_o] = setup_traffic(Tmat);
+%     Tmat = sprand(nn,nn,(123)/(1426^2)) * 500;
+%     Tmat = Tmat - diag(diag(Tmat));
+%     [s,t,T_o] = setup_traffic(Tmat);
     
 % Option 3: Estimation with gravitational model
     % Tmat = gentraffics_s(population, DG);       % Traffic Event: al pairs of OD flows
@@ -227,7 +226,6 @@ end
 %CDS = CDS./trial; % sample mean of cumulative costs
 waitbar(1)
 delete(h)
-close(h)
 toc
 
 aa = toc;

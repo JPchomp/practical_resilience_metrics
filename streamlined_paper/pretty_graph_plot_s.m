@@ -15,7 +15,7 @@ figure('Units', 'pixels', ...
 
 hold on;
 
-p = plot(GC,'XData',xlocation,'YData',ylocation);
+p = plot(GC,'XData',xlocation,'YData',ylocation,'EdgeLabel',GC.Edges.Weight);
 
 % General Attributes
 % title(tit);
