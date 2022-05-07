@@ -22,7 +22,7 @@ if strcmp(sol.Solution.statusstring,'optimal')
     
     se_flows = [s',t',sol.Solution.x(end-length(s)+1:end)];                % Flows on the superdeges i.e: non materialized flows
     
-    comm_duals = [sol.Solution.dual(nl+length(s)+1:end)];                  % Commodity duals: What one extra unit should minimum pay to be profitable
+    comm_duals = [s',t',sol.Solution.dual(nl+length(s)+1:end)];                  % Commodity duals: What one extra unit should minimum pay to be profitable
     
     % Build the hyperdistances matrix
     for idx = 1:length(pathcosts)

@@ -1,6 +1,6 @@
 %%% Compiler of the streamlined code: This example solves the MCF problem
-%%% Within the MCMC framework
-
+%%% for a linearly increasing traffic instance
+%%% With no hazard effects
 
 %% Initialization
 % Loads data and create graphs
@@ -38,9 +38,9 @@ DG =  distances(GD);
     % sdtt = sqrt(log((stt/(mmtt^2))+1));
 
     % option 3    
-    Tmat = sprand(nn,nn,(20)/(1426^2)) * 500;
-    Tmat = Tmat - diag(diag(Tmat));
-    [s,t,T_o] = setup_traffic(Tmat);
+%     Tmat = sprand(nn,nn,(123)/(1426^2)) * 500;
+%     Tmat = Tmat - diag(diag(Tmat));
+%     [s,t,T_o] = setup_traffic(Tmat);
     
 % Option 3: Estimation with gravitational model
     % Tmat = gentraffics_s(population, DG);       % Traffic Event: al pairs of OD flows
@@ -77,7 +77,7 @@ paths = [nsp;paths]; pcosts = [csp;pcosts];
 
 %% Def 5: Simulation parameters and results initialization
 % number of simulations to run
-N_sim = 100;
+N_sim = 10;
 n_sim = 1; % initialization of counter
 
 % counter of acceptance rate in MCMC
@@ -91,6 +91,10 @@ search_depth = 10; % Persistence of the column generation algorithm
 % initialize results empty vectors
 Rvec = gevrnd(k,sigma,mu,[N_sim,1]);
 Tvec = lognrnd(mmtt,stt,[N_sim,1]);
+
+    % As a check, try with a linearly increasing Tvec and no R
+    Tvec = linspace(0,2,length(Tvec))';
+    Rvec = zeros(length(Rvec),1);
 
 Fvec = zeros(N_sim,1);
 res = zeros(N_sim,1);
@@ -120,7 +124,7 @@ h = waitbar(0,'Please wait...');
     
         H = hzsim(XC , YC, xlocation, ylocation, R, 15);     % fragility function over all links
         
-        capacity_h = cap_hazard( H , capacity );             % reduced capacity of each link      
+        capacity_h = capacity; % cap_hazard( H , capacity );  % reduced capacity of each link (currently kept equal)       
 
 % Traffic event
 
@@ -164,30 +168,8 @@ while n_sim < N_sim
 
     % and b) rainfall    
     Tparam = Tvec(n_sim); %
-
-
-    % likelihood of proposed parameters
-    p = log(gevpdf(R,k,sigma,mu)) + log(lognpdf(Tparam, mmtt, stt));
-
-    % likelihood of previous parameters
-    p1 = log(gevpdf(Rvec(n_sim-1),k,sigma,mu)) + log(lognpdf(Tvec(n_sim-1), mmtt, stt));
-    
-    if rand() > exp(p-p1)  % the likelihood is too low, chain stays at previous position
-            
-        res(n_sim) = res(n_sim-1); Rvec(n_sim) = Rvec(n_sim-1); SE(:,n_sim) = SE(:,n_sim-1); LF(:,n_sim) = LF(:,n_sim-1);
-        Tvec(n_sim) = Tvec(n_sim-1); DS(:,n_sim) = DS(:,n_sim-1); Fvec(n_sim) = F; EC{n_sim} = EC{n_sim-1};
         
-    else                   % likelihood high, advance with a new event and routing
-            
-        % Rainfall event
-
-        H = hzsim(XC , YC, xlocation, ylocation, R, 15); % fragility function over all links
-        
-        capacity_h = cap_hazard( H , capacity );         % reduced capacity of each link 
-        
-        % Traffic event
-
-        Tparam = lognrnd(mmtt,stt);                      % Draw from lognormal
+        capacity_h = capacity; % cap_hazard( H , capacity );  % reduced capacity of each link (currently kept equal) 
         
         T = T_o * Tparam;                                % Affect the T vector by Tparam (TODO: Tparam(s,t))   
         
@@ -214,7 +196,7 @@ while n_sim < N_sim
         
         Fvec(n_sim) = F;                                 % Should be all zeros
 
-   end
+%    end
     
         %Empirical Pf and Variance
         counter = counter + (sum(se_flows(:,3)) > 0);

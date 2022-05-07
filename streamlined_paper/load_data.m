@@ -7,7 +7,7 @@
 %addpath(genpath(pwd));
 
 % Concatenate the current path and the Network Data file:
-path=".\data\"+"input_network.xlsx";
+path=".\data\"+"input_network_arg.xlsx";
 
 DATA=xlsread(path);
 

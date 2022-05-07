@@ -14,7 +14,7 @@ m = max(link_duals(:,4)+abs(link_duals(:,5)))*100;               % Big number co
 
 Gtem=digraph(link_duals(:,1),...                                 % from  
              link_duals(:,2),...                                 % to
-             link_duals(:,4)-link_duals(:,5)+m);                 % Create graph with positive edges
+             link_duals(:,4) - link_duals(:,5));                 % Create graph with positive edges
          
          %% for the simple 2 od case i am not getting dual values!
 
@@ -26,11 +26,12 @@ for i = 1:length(s)
         
     else
     
-    [nsp{i,1},~] = Gtem.shortestpath(s(i),t(i));                    % The path is already stored here  
+    [nsp{i,1},~] = Gtem.shortestpath(s(i),t(i));                        % The path is already stored here  
     
     csp_temp = 0;
+    
     for k = 1:length(nsp{i,1})-1
-        csp_temp = csp_temp + distmatrix( nsp{i,1}(k) , nsp{i,1}(k+1)); %need to calculate like this due to the graph being with duals
+        csp_temp = csp_temp + distmatrix( nsp{i,1}(k) , nsp{i,1}(k+1)); % need to calculate like this due to the graph being with duals
     end
     
     csp{i,1} = csp_temp;
